@@ -17,6 +17,12 @@ All information about the course will be posted here.
 
 ## News
 * **Aug 25** - Welcome back!
+* **Sept 10** - Exam 1 Part 1 Discussion
+* **Sept 14 - Exam 1 Part 1 Due** upload a .pdf to Canvas by 11:59pm
+* **Oct 8** - Exam 1 Part 2 Discussion
+* **Oct 12 - Exam 1 Part 2 Due** upload a .pdf to Canvas by 11:59pm
+* **Nov 17** - Exam 2 Discussion
+* **Nov 24 - Exam 2 Due** upload a .pdf to Canvas by 11:59pm
 
 <!--
 * **Jan 23** - Welcome back!

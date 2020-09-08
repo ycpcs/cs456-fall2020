@@ -19,6 +19,28 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Sep 1   | Responsibility      | *Toward Algorithmic Transparency and Accountability*, Simson Garfinkel, Jeanna Matthews, Stuart S. Shapiro, Jonathan M. Smith (ACM - 9/17) <br /> *Assuring Software Quality By Preventing Neglect*, Robin K. Hill (ACM - 9/17) <br /> *Tony's Law*, Dror G. Feitelson (ACM - 2/19) <br /> *Should AI Technology Be Regulated? Yes, and Here's How*, Oren Etzioni (ACM - 12/18) |
 > Sep 3   | IP - Copyrights     | *Who Owns the Social Web?*, Catherine C. Marshall, Frank M. Shipman (ACM - 5/17) <br /> *The EU’s Controversial Digital Single Market Directive*, Pamela Samuelson (ACM - 11/18) <br /> *Questioning a New Intellectual Property Right for Press Publishers*, Pamela Samuelson (ACM - 3/19) |
 > Sep 8   | IP - Patents        | *Why Do Software Startups Patent (or Not)?*, Pamela Samuelson (ACM - 11/10) <br/> *Software Patents Are Falling Down*, Pamela Samuelson (ACM - 11/15) <br /> *Disgorging Profits in Design Patent Cases*, Pamela Samuelson (ACM - 11/17) <br /> *Do Patent Commons and Standards-Setting Organizations Help Navigate Patent Thickets?*, Wen Wen and Chris Forman (ACM - 5/16) |
+> Sep 10  | **EXAM I PART I Discussion**   |  | 
+> Sep 15  | Privacy - I         | *The Tangled Web We Have Woven*, Eben Moglen (ACM - 2/13) <br /> *Privacy is Dead, Long Live Privacy*, Jean-Pierre Hubaux and Ari Juels (ACM - 6/16) <br /> *When Does Law Enforcement's Demand to Read Your Data Become a Demand to Read Your Mind?*, Andrew Conway and Peter Eckersley (ACM - 9/17) | 
+> Sep 17  | Privacy - II        | *Weighing the Impact of GDPR*, Samuel Greengard (ACM - 11/18) <br /> *More Encryption Means Less Privacy*, Poul-Henning Kamp (ACM - 4/16) <br /> *Welcome to the Singularity*, David Allen Batchelor (ACM - 2/18) | 
+> Sep 22  | Security - I        | *Cyber Insecurity and Cyber Libertarianism*, Moshe Y. Vardi (ACM - 5/17) <br /> *Deep Insecurities: The Internet of Things Shifts Technology Risk*, Samuel Greengard (ACM - 5/19)|
+> Sep 24  | Security - II       | *I Can't Let You Do That, Dave*, Cory Doctorow (ACM - 12/15) **NOTE: This is the Dec 2015 article** <br /> *Security Assurance*, Steven B. Lipner (ACM - 11/15) <br /> *Encryption and Surveillance*, Joan Feigenbaum (ACM - 5/19) <br /> *IoT: The Internet of Terror*, George V. Neville-Neil (ACM - 10/17)|  
+> Sep 29  | Internet Free Speech | *Continuity and Change in Internet Law*, James Grimmelmann (ACM - 5/19) <br /> *A Response to Fake News as a Response to Citizens United*, Marshall W. Van Alstyne (ACM - 8/19) |
+> Oct 1   | Individual Impact    | *Does the Internet Make Us Stupid?*, Hermann Maurer (ACM - 1/15)  <br /> *Potential ‘Dark Sides’ of Leisure Technology Use in Youth*, Ofir Turel (ACM - 3/19)|
+> Oct 6   | Societal Impact      | *Access to the Internet is a Human Right*, Stephen Wicker and Stephanie Santoso (ACM - 6/13) <br /> *Beyond Viral*, Manuel Cebrian, Iyad Rahwan, and Alex "Sandy" Pentland (ACM - 4/16) <br /> *Digitocracy*, Joel R. Reidenberg (ACM - 9/17)|
+> Oct 8   | **EXAM I PART 2 Discussion** | |
+> Oct 13  | Student Discussion | |
+> Oct 15  | Student Discussion | |
+> Oct 20  | Student Discussion | |
+> Oct 22  | Student Discussion | |
+> Oct 27  | Student Discussion | |
+> Oct 29  | Student Discussion | |
+> Nov 3   | Student Discussion | |
+> Nov 5   | Student Discussion | |
+> Nov 10  | Student Discussion | |
+> Nov 12  | Student Discussion | |
+> Nov 17  | **EXAM I PART 2 Discussion** | |
+
+
 
 <!--
 > Jan 28  | Profession          | *Computing Is a Profession*, Andrew A. Chien (ACM - 10/17) <br /> *ACM Code of Ethics: A Guide for Positive Action*, Don Gotterbarn, Amy Bruckman, Catherine Flick, Keith Miller, Marty J. Wolf (ACM - 1/18) <br /> [The Pledge of The Computing Professional](http://pledge-of-the-computing-professional.org/home-page/the-oath) |
