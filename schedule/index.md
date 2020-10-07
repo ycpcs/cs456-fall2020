@@ -28,7 +28,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Oct 1   | Individual Impact    | *Does the Internet Make Us Stupid?*, Hermann Maurer (ACM - 1/15)  <br /> *Potential ‘Dark Sides’ of Leisure Technology Use in Youth*, Ofir Turel (ACM - 3/19)|
 > Oct 6   | Societal Impact      | *Access to the Internet is a Human Right*, Stephen Wicker and Stephanie Santoso (ACM - 6/13) <br /> *Beyond Viral*, Manuel Cebrian, Iyad Rahwan, and Alex "Sandy" Pentland (ACM - 4/16) <br /> *Digitocracy*, Joel R. Reidenberg (ACM - 9/17)|
 > Oct 8   | **EXAM I PART 2 Discussion** | |
-> Oct 13  | Kate Kennelly <br> *Smart Doorbell Surveillance* | |
+> Oct 13  | Kate Kennelly <br> *Smart Doorbell Surveillance* | *Your Visitors Deserve to Know They're on Camera*, Thorin Klosowski (NY Times, 10/7/19) <br /> *The doorbells have eyes: A privacy battle brews over home security cameras*, Geoffrey Fowler (Wash Post 2/3/19)|
 > Oct 15  | Earl Kennedy <br> *Software as a Service Obligations* | |
 > Oct 20  | Andrew Georgiou <br> *Youtube Child Privacy and COPPA* | |
 > Oct 22  | Alex Louderback <br> *Amazon Anti-competitive Practices* | |
