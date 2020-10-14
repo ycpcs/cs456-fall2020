@@ -29,8 +29,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Oct 6   | Societal Impact      | *Access to the Internet is a Human Right*, Stephen Wicker and Stephanie Santoso (ACM - 6/13) <br /> *Beyond Viral*, Manuel Cebrian, Iyad Rahwan, and Alex "Sandy" Pentland (ACM - 4/16) <br /> *Digitocracy*, Joel R. Reidenberg (ACM - 9/17)|
 > Oct 8   | **EXAM I PART 2 Discussion** | |
 > Oct 13  | Kate Kennelly <br> *Smart Doorbell Surveillance* | *Your Visitors Deserve to Know They're on Camera*, Thorin Klosowski (NY Times, 10/7/19) <br /> *The doorbells have eyes: A privacy battle brews over home security cameras*, Geoffrey Fowler (Wash Post 2/3/19)|
-> Oct 15  | Earl Kennedy <br> *Medical Device Security* | *security and privacy for Implantable medical Devices*, David Halperin, Tadayoshi Kohno, Thomas S. Heydt-Benjamin, Kevin Fu, and William H. Maisel (IEEE - 1-3/08) <br> *Security Tradeoffs in Cyber Physical Systems: A Case Study Survey on Implantable
-Medical Devices*, Riham Altawy and Amr M. Youssef (IEEE - 1/16) <br> *Brain-Computer Interface applications: Security and privacy challenges*, QianQian Li, Ding Ding, and Mauro Conti (IEEE - 9/15)|
+> Oct 15  | Earl Kennedy <br> *Medical Device Security* | *security and privacy for Implantable medical Devices*, David Halperin, Tadayoshi Kohno, Thomas S. Heydt-Benjamin, Kevin Fu, and William H. Maisel (IEEE - 1-3/08) <br> *Security Tradeoffs in Cyber Physical Systems: A Case Study Survey on Implantable Medical Devices*, Riham Altawy and Amr M. Youssef (IEEE - 1/16) <br> *Brain-Computer Interface applications: Security and privacy challenges*, QianQian Li, Ding Ding, and Mauro Conti (IEEE - 9/15)|
 > Oct 20  | Andrew Georgiou <br> *Youtube Child Privacy and COPPA* | |
 > Oct 22  | Alex Louderback <br> *Amazon Anti-competitive Practices* | |
 > Oct 27  | Vince Maresca <br> *Amazon Echo Privacy* | |
