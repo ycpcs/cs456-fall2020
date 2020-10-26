@@ -39,7 +39,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Nov 10  | Cayden Reynolds <br> *Facial Recognition and Law Enforcement* | |
 > Nov 12  | Josh Gross <br> *Quantum Computing* | |
 > Nov 17  | **EXAM 2 Discussion** | |
-> Nov 24  | Prof. Hake | |
+> Nov 24  | Prof. Hake <br /> *Life, the Universe, and Everything* | |
 
 
 
