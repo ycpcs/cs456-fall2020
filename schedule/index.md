@@ -32,13 +32,15 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Oct 15  | Earl Kennedy <br> *Medical Device Security* | *security and privacy for Implantable medical Devices*, David Halperin, Tadayoshi Kohno, Thomas S. Heydt-Benjamin, Kevin Fu, and William H. Maisel (IEEE - 1-3/08) <br> *Security Tradeoffs in Cyber Physical Systems: A Case Study Survey on Implantable Medical Devices*, Riham Altawy and Amr M. Youssef (IEEE - 1/16) <br> *Brain-Computer Interface applications: Security and privacy challenges*, QianQian Li, Ding Ding, and Mauro Conti (IEEE - 9/15)|
 > Oct 20  | Andrew Georgiou <br> *Youtube Child Privacy and COPPA* | [Industry Toolkit: CHILDREN’S ONLINE PRIVACY AND FREEDOM OF EXPRESSION](https://www.unicef.org/csr/files/UNICEF_Childrens_Online_Privacy_and_Freedom_of_Expression(1).pdf) <br /> [YouTube overhauls advertising, data collection on kids content](https://www.washingtonpost.com/technology/2020/01/06/youtube-overhauls-advertising-data-collection-kids-content/) <br /> [YouTube channel owners: Is your content directed to children?](https://www.ftc.gov/news-events/blogs/business-blog/2019/11/youtube-channel-owners-your-content-directed-children)|
 > Oct 22  | Alex Louderback <br> *Amazon Anti-competitive Practices* | [Antitrust Laws and Silicon Valley: Why Breaking Up Big Tech is a Nuanced Issue](https://medium.com/swlh/antitrust-laws-and-silicon-valley-why-breaking-up-big-tech-is-a-nuanced-issue-1eddd8a008a2) <br /> [Emails detail Amazon’s plan to crush a startup rival with price cuts](https://arstechnica.com/tech-policy/2020/07/emails-detail-amazons-plan-to-crush-a-startup-rival-with-price-cuts/) <br /> [Amazon’s Antitrust Paradox (Abstract)](https://www.yalelawjournal.org/note/amazons-antitrust-paradox)|
-> Oct 27  | Vince Maresca <br> *Amazon Echo Privacy* | |
-> Oct 29  | Zachary Ronayne <br> *Tik Tok Data Mining* | |
+> Oct 27  | Vince Maresca <br> *Amazon Echo Privacy* | [Alexa, did you get that? Determining the evidentiary value of data stored by the Amazon® Echo](https://www.sciencedirect.com/science/article/pii/S1742287617301809?via%3Dihub) <br /> [Amazon Alexa: 'Pre-wakeword' patent application suggests plans to process more of your speech](https://www.theregister.com/2019/06/05/amazon_alexa_prewakeword_patent_application_show_plans_to_process_more_of_your_speech/) <br /> [Federal Lawsuit Charges Amazon’s Alexa Violates Children’s Privacy](https://www.claimsjournal.com/news/national/2019/06/17/291497.htm)|
+> Oct 29  | Zachary Ronayne <br> *Tik Tok Data Mining* | [TikTok and privacy: What's the problem? Perhaps the video-sharing app gathers too much data](https://www.usatoday.com/story/tech/2020/08/06/tiktok-any-worse-privacy-and-data-mining-than-facebook/3311726001/) <br /> [Is it time to delete TikTok? A guide to the rumors and the real privacy risks.](https://www.washingtonpost.com/technology/2020/07/13/tiktok-privacy/)|
 > Nov 3   | Dakota Hilbert <br> *Blockchain and Privacy* | |
 > Nov 5   | Quintin Herb <br> *Net Neutrality* | |
 > Nov 10  | Cayden Reynolds <br> *Facial Recognition and Law Enforcement* | |
 > Nov 12  | Josh Gross <br> *Quantum Computing* | |
 > Nov 17  | **EXAM 2 Discussion** | |
+> Nov 24  | Prof. Hake | |
+
 
 
 
