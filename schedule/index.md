@@ -37,7 +37,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Nov 3   | **SPARTAN DAY!** | |
 > Nov 5   | Dakota Hilbert <br> *Blockchain and Privacy* | [Privacy, blockchain and the Internet of Things – Can we keep control of our own identities?](https://unisa.edu.au/Media-Centre/Releases/2020/privacy-blockchain-and-the-internet-of-things--can-we-keep-control-of-our-own-identities/) <br /> [Blockchain may break EU privacy law—and it could get messy](https://modernconsensus.com/regulation/blockchain-may-break-eu-privacy-law-and-it-could-get-messy/)|
 > Nov 10  | Quintin Herb <br> *Net Neutrality* | [The pros and cons of net neutrality](https://www.itpro.co.uk/strategy/28115/the-pros-and-cons-of-net-neutrality) <br /> [WHAT IS NET NEUTRALITY?](https://www.aclu.org/issues/free-speech/internet-speech/what-net-neutrality) <br /> [The net neutrality fanatics were wrong](https://financialpost.com/opinion/the-net-neutrality-fanatics-were-wrong) |
-> Nov 12  | Cayden Reynolds <br> *Facial Recognition and Law Enforcement* | |
+> Nov 12  | Cayden Reynolds <br> *Facial Recognition and Law Enforcement* | [Facial Recognition: Dawn of Dystopia, or Just the New Fingerprint?](https://www.nytimes.com/2019/05/18/us/facial-recognition-police.html) <br /> [How the Police Use Facial Recognition, and Where It Falls Short](https://www.nytimes.com/2020/01/12/technology/facial-recognition-police.html) |
 > Nov 17  | Josh Gross <br> *Quantum Computing* | |
 > Nov 19  | **EXAM 2 Discussion** | |
 > Nov 24  | Prof. Hake <br /> *Life, the Universe, and Everything* | |
